@@ -1,0 +1,1001 @@
+City,Date,Temperature (°C),Weather Description,Humidity (%),Wind Speed (m/s)
+Islamabad,25-12-2021,25.9,Few clouds,90,2.9
+Quetta,05-12-2022,33.6,Rain,34,11.6
+Peshawar,23-12-2020,10.5,Few clouds,,12.2
+Islamabad,26-02-2024,30.6,Thunderstorm,32,3.6
+Karachi,29-07-2024,28.8,Overcast,63,4.2
+Karachi,30-10-2024,24.6,Scattered clouds,98,2.9
+Lahore,02-05-2021,19.2,Thunderstorm,69,1.9
+Islamabad,22-08-2024,35.8,Clear sky,100,14.8
+Lahore,20-05-2024,27.7,Overcast,41,3.3
+Quetta,26-05-2024,36.8,Clear sky,87,1.7
+Quetta,19-07-2021,25,Scattered clouds,74,11.1
+Peshawar,11-07-2023,10.8,Thunderstorm,67,3.2
+Lahore,18-04-2024,37.4,Scattered clouds,58,0.8
+Lahore,23-06-2020,34.7,Scattered clouds,94,2.9
+Peshawar,20-02-2023,38.2,Scattered clouds,94,0.2
+Quetta,29-07-2023,21,Scattered clouds,53,0
+Peshawar,21-04-2024,18.4,Scattered clouds,67,14.2
+Islamabad,27-02-2020,21.3,Few clouds,26,7.7
+Karachi,19-06-2021,23.3,Overcast,94,13.8
+Lahore,13-08-2024,39.6,Rain,88,1
+Karachi,29-04-2022,29.2,Few clouds,96,1.1
+Quetta,07-01-2021,12.4,Clear sky,86,1.9
+Peshawar,15-07-2023,25.4,Thunderstorm,55,4.9
+Quetta,13-07-2021,15.8,Clear sky,86,11.3
+Quetta,14-05-2024,29.3,Rain,22,9.4
+Quetta,17-05-2022,22.6,Clear sky,50,11.4
+Lahore,16-05-2023,36.9,Rain,33,7.5
+Islamabad,18-12-2022,26.1,Thunderstorm,56,3.8
+Lahore,20-08-2024,37.8,Scattered clouds,70,13.4
+Karachi,20-11-2024,39.3,Overcast,30,13.5
+Karachi,15-08-2021,26.4,Clear sky,60,4.7
+Karachi,12-07-2024,25.1,Scattered clouds,,1.1
+Karachi,04-04-2024,24.8,Clear sky,94,4.4
+Karachi,06-05-2021,13.4,Clear sky,39,2.7
+Lahore,16-06-2020,31.4,Few clouds,79,10.8
+Peshawar,08-12-2021,30.7,Rain,68,6.3
+Islamabad,09-07-2021,24.3,Scattered clouds,34,0.2
+Karachi,26-01-2021,31.3,Rain,99,13.3
+Karachi,03-05-2023,12.3,Thunderstorm,43,2.7
+Karachi,06-11-2022,18.5,Few clouds,96,10.7
+Islamabad,04-06-2024,27.9,Scattered clouds,31,11.1
+Islamabad,12-04-2020,20.9,Rain,87,6.6
+Peshawar,31-08-2021,27.6,Overcast,81,7.1
+Lahore,10-08-2021,26.8,Rain,61,1.1
+Karachi,17-03-2020,37.7,Scattered clouds,93,14.8
+Lahore,16-08-2020,10.4,Clear sky,55,12.4
+Quetta,17-03-2022,28,Thunderstorm,90,0.4
+Islamabad,25-04-2024,30.1,Rain,65,11.6
+Islamabad,05-07-2022,29.5,Overcast,87,5.9
+Peshawar,31-07-2020,15.6,Scattered clouds,79,1.7
+Islamabad,23-01-2024,11.2,Clear sky,26,2.4
+Karachi,20-09-2021,34.7,Overcast,84,8.6
+Islamabad,04-11-2023,11.8,Thunderstorm,80,8.9
+Peshawar,29-01-2020,32.5,Few clouds,68,8.8
+Karachi,11-10-2021,25.7,Thunderstorm,88,8.1
+Quetta,03-06-2022,32.2,Rain,67,6.4
+Islamabad,08-10-2022,38.3,Overcast,61,13.9
+Karachi,24-06-2020,29.6,Rain,51,3.6
+Peshawar,27-08-2023,24.3,Scattered clouds,42,8
+Karachi,25-12-2021,27.7,Clear sky,50,14.7
+Peshawar,14-09-2024,23.8,Few clouds,64,0.9
+Islamabad,16-11-2022,38.1,Few clouds,71,9.8
+Quetta,09-08-2021,12.7,Few clouds,27,3.9
+Peshawar,14-02-2023,17.1,Overcast,39,6.6
+Lahore,07-02-2023,24.8,Clear sky,29,0.7
+Karachi,09-10-2020,19,Overcast,84,0.4
+Islamabad,02-07-2020,17.1,Few clouds,90,2.5
+Lahore,17-04-2024,27.5,Few clouds,80,5.3
+Islamabad,27-04-2020,28.7,Clear sky,90,11.4
+Quetta,10-08-2020,20.4,Clear sky,99,11.1
+Peshawar,29-05-2020,34.6,Rain,73,13.9
+Islamabad,13-04-2024,38.4,Rain,77,5.8
+Lahore,26-05-2024,24.6,Overcast,40,8.6
+Peshawar,27-07-2024,23.5,Thunderstorm,21,4.6
+Quetta,26-04-2020,31.7,Rain,41,9.8
+Quetta,26-11-2022,35.4,Scattered clouds,29,7.9
+Islamabad,24-03-2023,18.9,Thunderstorm,94,11.4
+Lahore,24-10-2020,30.7,Few clouds,28,3.8
+Lahore,02-08-2021,29.6,Overcast,56,4.3
+Islamabad,09-06-2022,35.2,Few clouds,21,3
+Karachi,04-04-2024,36.3,Thunderstorm,50,11.5
+Islamabad,10-07-2022,39.3,Few clouds,27,14
+Karachi,03-10-2023,17.1,Scattered clouds,100,4.4
+Lahore,08-12-2023,10.9,Thunderstorm,35,8.4
+Quetta,04-04-2024,32.1,Clear sky,96,14.8
+Quetta,11-11-2024,38.3,Overcast,87,10.9
+Quetta,22-06-2020,21.6,Overcast,31,11.1
+Quetta,19-01-2020,15.4,Scattered clouds,20,14.4
+Karachi,02-01-2022,14.3,Overcast,80,6.4
+Quetta,29-04-2024,38.4,Few clouds,38,1.7
+Quetta,07-09-2024,36.2,Scattered clouds,61,12.8
+Peshawar,10-07-2021,14.4,Thunderstorm,36,11.7
+Quetta,07-12-2023,34.6,Scattered clouds,42,11.6
+Islamabad,14-01-2024,30.6,Rain,22,4.7
+Peshawar,22-08-2020,19.8,Scattered clouds,94,3.3
+Lahore,06-04-2024,21.5,Few clouds,35,6.5
+Peshawar,04-08-2024,24.5,Clear sky,97,13.2
+Karachi,13-01-2022,14.6,Clear sky,24,3
+Lahore,14-01-2021,10.9,Clear sky,29,11.2
+Quetta,10-06-2023,32.6,Few clouds,92,14.5
+Peshawar,08-02-2020,32.4,Clear sky,57,0.4
+Quetta,06-06-2020,13.9,Overcast,98,13.1
+Quetta,19-04-2024,19.7,Few clouds,56,0.4
+Quetta,24-03-2022,28.7,Few clouds,99,1.7
+Lahore,19-01-2024,11.7,Overcast,47,6.7
+Quetta,21-10-2023,38.4,Rain,28,5.1
+Peshawar,25-07-2023,28.4,Few clouds,56,11.9
+Karachi,18-08-2021,23.2,Few clouds,61,8.5
+Karachi,11-04-2024,37.4,Thunderstorm,73,6.8
+Islamabad,05-03-2024,14.7,Rain,25,2
+Peshawar,07-03-2022,13.1,Clear sky,68,3.6
+Lahore,01-04-2022,31.7,Scattered clouds,89,0.7
+Lahore,10-03-2020,31.5,Thunderstorm,84,1.9
+Quetta,27-03-2022,23.5,Clear sky,51,3.7
+Peshawar,03-09-2021,28.1,Scattered clouds,89,2.2
+Karachi,21-01-2020,34.1,Few clouds,82,10.1
+Karachi,21-07-2021,12.1,Thunderstorm,61,13.6
+Islamabad,14-08-2023,12.9,Few clouds,27,4.9
+Peshawar,31-08-2022,34.1,Few clouds,76,5.9
+Islamabad,09-07-2022,25,Rain,74,9.6
+Karachi,09-06-2020,19.1,Thunderstorm,38,11.8
+Karachi,17-09-2020,25.8,Overcast,92,10.2
+Lahore,05-05-2021,16.8,Clear sky,84,13.6
+Quetta,07-12-2024,22.3,Clear sky,47,3.5
+Lahore,12-11-2021,39.1,Rain,44,10.4
+Peshawar,14-08-2021,13.7,Few clouds,85,4.7
+Peshawar,14-08-2024,39.7,Few clouds,61,0.8
+Lahore,25-02-2022,14.1,Few clouds,81,6.4
+Islamabad,27-08-2020,26.8,Clear sky,57,6
+Islamabad,26-07-2024,38.5,Thunderstorm,85,6.8
+Lahore,31-01-2021,38.6,Rain,92,0.9
+Lahore,25-11-2021,31.4,Few clouds,57,5.7
+Peshawar,14-05-2022,16.7,Thunderstorm,77,0.3
+Quetta,24-08-2020,38.3,Rain,77,7.6
+Karachi,27-08-2021,16.3,Rain,95,2.2
+Lahore,27-01-2020,27.3,Overcast,71,7.4
+Islamabad,20-11-2023,34,Rain,96,13.6
+Quetta,12-05-2023,32.9,Clear sky,32,7.9
+Peshawar,22-09-2023,33,Thunderstorm,47,8.4
+Lahore,05-10-2020,18.5,Thunderstorm,79,13.4
+Peshawar,24-09-2023,14.1,Rain,65,12.1
+Islamabad,08-08-2021,16.5,Overcast,40,5.8
+Karachi,12-03-2023,29.4,Scattered clouds,83,1.2
+Lahore,04-12-2020,19.4,Clear sky,22,0.8
+Quetta,09-08-2021,18.7,Overcast,23,15
+Peshawar,17-02-2020,39.9,Thunderstorm,69,5.1
+Lahore,05-07-2023,10.9,Overcast,58,4.8
+Quetta,18-10-2023,31.9,Rain,92,4
+Quetta,30-01-2020,32.3,Thunderstorm,52,7.2
+Islamabad,24-05-2021,18.5,Overcast,84,0.7
+Peshawar,14-08-2024,36.4,Scattered clouds,45,11.3
+Lahore,16-02-2023,32.4,Rain,21,4.3
+Quetta,26-03-2022,11,Clear sky,49,5.1
+Peshawar,03-08-2022,15.6,Few clouds,52,3.3
+Peshawar,30-12-2020,13,Scattered clouds,89,1.5
+Lahore,02-11-2021,23.7,Few clouds,53,3.7
+Quetta,17-03-2020,23.2,Rain,86,0.9
+Lahore,17-07-2021,19.2,Thunderstorm,39,7.1
+Karachi,28-07-2022,31,Clear sky,25,0.9
+Islamabad,21-09-2021,27.8,Thunderstorm,90,11.8
+Peshawar,01-06-2020,17.2,Thunderstorm,28,6.5
+Karachi,05-08-2020,11.4,Thunderstorm,30,1.8
+Lahore,29-07-2024,20.7,Thunderstorm,60,11.2
+Quetta,20-05-2024,39.8,Few clouds,98,5.9
+Islamabad,13-11-2020,24.7,Overcast,90,8.8
+Peshawar,06-12-2022,24.5,Scattered clouds,31,9.5
+Peshawar,15-06-2020,25.4,Scattered clouds,70,9.3
+Quetta,01-06-2021,33.4,Few clouds,99,8.1
+Quetta,14-04-2022,23.5,Scattered clouds,60,3.3
+Peshawar,11-07-2021,11,Clear sky,98,6.6
+Lahore,22-12-2024,36.5,Rain,49,13.1
+Karachi,10-05-2024,38.1,Thunderstorm,99,6.2
+Quetta,26-11-2023,35.8,Few clouds,83,5.3
+Peshawar,25-08-2020,36.7,Thunderstorm,83,3.1
+Lahore,07-06-2022,23.8,Rain,91,9.8
+Islamabad,10-06-2024,19.4,Overcast,91,5.2
+Quetta,24-02-2024,16.2,Thunderstorm,65,13.9
+Islamabad,05-10-2022,26.1,Scattered clouds,87,3
+Islamabad,25-04-2023,23.2,Overcast,100,9.1
+Lahore,20-07-2021,35.9,Scattered clouds,81,6.4
+Karachi,22-09-2024,20.6,Thunderstorm,35,0.8
+Islamabad,08-09-2023,10.6,Overcast,43,10.2
+Quetta,16-09-2024,15.2,Few clouds,87,5.9
+Peshawar,17-01-2022,21.6,Few clouds,34,11.9
+Karachi,12-05-2023,20.1,Scattered clouds,71,2.6
+Islamabad,18-06-2024,27.3,Rain,45,13.6
+Lahore,10-06-2021,20.1,Rain,89,0.2
+Lahore,11-02-2022,14.7,Overcast,29,14.2
+Peshawar,28-02-2020,39.9,Rain,52,1
+Islamabad,09-02-2022,30.7,Rain,71,9
+Peshawar,20-06-2023,30.1,Few clouds,94,12.9
+Peshawar,08-11-2022,25.3,Thunderstorm,95,6.8
+Lahore,21-11-2024,29,Overcast,63,11.3
+Quetta,21-07-2022,11.2,Few clouds,29,10.5
+Quetta,20-12-2020,29.2,Overcast,24,6.6
+Lahore,26-02-2021,27,Scattered clouds,48,6.9
+Karachi,07-08-2023,21.2,Overcast,40,3.4
+Lahore,10-07-2021,15.6,Rain,,9.5
+Islamabad,07-08-2021,,Few clouds,59,1.7
+Lahore,08-06-2020,16.2,Rain,30,1.5
+Lahore,24-01-2021,14.7,Clear sky,,7.1
+Lahore,30-01-2022,21.7,Clear sky,60,4
+Quetta,13-10-2022,22.8,Scattered clouds,30,6
+Islamabad,18-11-2022,,Clear sky,85,12.5
+Lahore,17-07-2024,17,Rain,59,2.6
+Islamabad,10-03-2024,17,Scattered clouds,68,0.9
+Peshawar,09-04-2020,16.1,Few clouds,21,4.4
+Islamabad,14-12-2023,29.5,Few clouds,42,11.9
+Lahore,17-10-2020,36.1,Scattered clouds,21,11.9
+Lahore,14-07-2024,10,Thunderstorm,28,12.2
+Lahore,27-09-2020,22.6,Rain,33,2.3
+Lahore,12-07-2020,29.6,Scattered clouds,72,0.3
+Karachi,15-02-2020,16.9,Clear sky,91,7.7
+Lahore,16-04-2024,18.8,Rain,79,2.1
+Quetta,13-10-2020,24.2,Scattered clouds,46,1.1
+Peshawar,09-09-2021,18.1,Overcast,100,5.2
+Peshawar,03-01-2024,33.3,Few clouds,52,1.8
+Peshawar,25-09-2020,29.5,Clear sky,48,7.8
+Lahore,30-05-2021,35.1,Rain,28,2.2
+Lahore,11-08-2021,31.4,Clear sky,82,0.7
+Lahore,29-07-2023,23.4,Few clouds,44,12.3
+Quetta,26-12-2024,26.7,Thunderstorm,91,12.8
+Lahore,05-12-2023,24,Thunderstorm,76,8.9
+Karachi,08-05-2023,39.7,Thunderstorm,68,5.3
+Quetta,24-08-2023,12.8,Rain,99,11.3
+Lahore,06-02-2023,14.9,Thunderstorm,52,12.7
+Peshawar,22-02-2021,23.7,Clear sky,87,7
+Lahore,26-10-2024,25.1,Few clouds,81,14.6
+Peshawar,18-12-2020,36.3,Overcast,83,14.6
+Islamabad,22-01-2021,24.3,Rain,39,10.8
+Islamabad,03-01-2023,15.2,Scattered clouds,52,11.2
+Quetta,25-01-2022,13,Scattered clouds,88,9.2
+Quetta,16-10-2021,37.7,Overcast,25,9.2
+Karachi,07-12-2022,34,Rain,85,0.4
+Karachi,08-06-2024,33.9,Scattered clouds,62,12.8
+Lahore,10-03-2023,24.4,Overcast,28,11.9
+Islamabad,16-12-2024,38.3,Overcast,54,8.3
+Quetta,04-02-2024,20.4,Clear sky,87,6.9
+Quetta,24-07-2020,11.4,Rain,43,13.8
+Quetta,05-07-2024,16,Rain,63,0.8
+Karachi,11-09-2022,10.8,Overcast,27,1.7
+Karachi,19-09-2022,13.4,Overcast,100,1.1
+Lahore,29-06-2020,37.9,Thunderstorm,63,3.7
+Peshawar,16-02-2022,27.7,Few clouds,100,0.1
+Peshawar,08-03-2020,16.6,Rain,46,3.5
+Lahore,04-12-2021,29.7,Scattered clouds,68,4.9
+Islamabad,07-11-2024,12.9,Thunderstorm,53,14.7
+Quetta,27-04-2022,31.3,Rain,94,7.4
+Karachi,23-12-2023,26.5,Clear sky,26,3.1
+Lahore,15-10-2021,18.6,Rain,70,12.9
+Lahore,30-05-2022,20,Thunderstorm,54,11
+Islamabad,27-02-2024,17.1,Rain,40,2.6
+Quetta,08-11-2024,30.7,Clear sky,45,4.3
+Quetta,29-06-2023,20.2,Rain,25,10.8
+Quetta,27-08-2020,10.9,Overcast,90,6.6
+Peshawar,23-03-2023,10.5,Rain,65,12.6
+Quetta,05-07-2020,37.6,Clear sky,63,2.6
+Islamabad,02-02-2023,39.9,Scattered clouds,73,12
+Quetta,04-06-2021,15.5,Thunderstorm,23,13.5
+Quetta,03-12-2021,31.6,Rain,90,1.7
+Karachi,08-04-2022,39,Thunderstorm,97,4.2
+Karachi,30-05-2021,10.5,Scattered clouds,45,13.5
+Quetta,15-08-2021,28.8,Scattered clouds,57,13
+Lahore,12-03-2023,17.5,Overcast,40,14.2
+Karachi,15-08-2021,31.8,Overcast,80,5.9
+Peshawar,20-10-2024,13.4,Rain,55,10.7
+Lahore,27-12-2023,29.8,Scattered clouds,72,10.8
+Lahore,19-05-2020,,Clear sky,67,13.9
+Karachi,21-10-2020,37.4,Few clouds,24,8.1
+Quetta,11-03-2022,37,Rain,92,7.5
+Lahore,26-07-2024,12,Rain,72,13.6
+Islamabad,13-11-2024,33.5,Clear sky,32,13.5
+Peshawar,13-05-2023,38.4,Overcast,79,1.1
+Lahore,22-04-2024,24.2,Clear sky,55,9.1
+Karachi,13-04-2023,36.9,Few clouds,87,1.6
+Islamabad,29-08-2022,20,Overcast,88,1.1
+Quetta,04-08-2023,22.7,Thunderstorm,100,9.1
+Quetta,25-08-2021,13.2,Thunderstorm,36,14.1
+Quetta,07-07-2021,36.8,Thunderstorm,45,1
+Quetta,30-12-2024,38.4,Scattered clouds,44,5.7
+Karachi,03-05-2021,11.1,Rain,26,14.7
+Lahore,23-07-2021,21.6,Scattered clouds,97,2.1
+Islamabad,20-06-2023,36.3,Few clouds,96,11.7
+Quetta,16-09-2020,28.2,Few clouds,53,10.5
+Karachi,13-09-2024,32.7,Thunderstorm,89,4.5
+Peshawar,14-10-2020,36.8,Overcast,20,10.4
+Islamabad,28-10-2024,10.3,Scattered clouds,77,12.1
+Islamabad,13-07-2023,39.4,Overcast,79,0.6
+Lahore,02-06-2024,27.5,Scattered clouds,81,9.3
+Islamabad,22-07-2023,19.7,Rain,50,10.3
+Karachi,12-11-2021,23.9,Rain,93,2
+Islamabad,16-03-2023,12.5,Thunderstorm,83,10.8
+Peshawar,31-01-2024,30,Clear sky,51,9.9
+Peshawar,31-05-2021,30.9,Thunderstorm,71,7.1
+Quetta,23-07-2024,17.7,Clear sky,84,7.7
+Lahore,07-10-2021,38.5,Few clouds,63,6.5
+Peshawar,16-07-2024,30.1,Few clouds,51,7.4
+Karachi,18-02-2024,15.7,Rain,38,1.8
+Peshawar,22-01-2020,10.8,Thunderstorm,99,8.8
+Peshawar,28-02-2022,15.1,Thunderstorm,63,8.6
+Quetta,02-08-2022,14.9,Scattered clouds,48,6.1
+Quetta,19-06-2020,11.6,Few clouds,79,4
+Islamabad,30-08-2023,20.7,Clear sky,98,14
+Islamabad,03-03-2020,24,Few clouds,94,3.6
+Lahore,12-08-2023,13.8,Scattered clouds,96,14.3
+Lahore,27-04-2022,23.8,Rain,77,6.9
+Karachi,08-11-2022,22,Rain,34,12.3
+Peshawar,27-12-2024,21.1,Scattered clouds,47,7.7
+Karachi,15-09-2024,28.5,Clear sky,27,13.5
+Peshawar,07-05-2024,33.1,Few clouds,48,3.1
+Quetta,04-01-2023,28.6,Few clouds,94,1.9
+Peshawar,22-04-2022,34.9,Overcast,49,8.1
+Lahore,01-05-2022,18.1,Scattered clouds,73,5.3
+Lahore,16-10-2021,28,Overcast,94,12.2
+Quetta,18-04-2022,35.6,Thunderstorm,65,7
+Karachi,12-12-2022,22.1,Few clouds,58,10.1
+Islamabad,17-05-2021,15.9,Scattered clouds,72,10.4
+Karachi,25-08-2023,34.5,Clear sky,37,3.3
+Peshawar,22-01-2024,20.2,Rain,96,1.8
+Lahore,29-11-2020,20.9,Rain,51,7
+Peshawar,30-07-2021,32.1,Few clouds,22,11.4
+Karachi,24-08-2022,28.4,Scattered clouds,66,1.7
+Karachi,16-11-2023,14.8,Clear sky,62,3.5
+Islamabad,23-09-2020,32.4,Clear sky,90,10.5
+Karachi,20-07-2020,17.5,Rain,43,7.3
+Quetta,29-11-2023,16.1,Rain,53,3.5
+Lahore,06-06-2020,25.9,Clear sky,96,11.5
+Islamabad,17-06-2023,32.8,Rain,33,9.4
+Karachi,18-05-2023,18.5,Overcast,93,7.8
+Islamabad,26-08-2022,10.9,Rain,24,12.9
+Islamabad,21-08-2024,39.9,Overcast,100,1.9
+Karachi,16-11-2023,25.7,Scattered clouds,34,11.9
+Quetta,16-09-2020,31.6,Rain,63,10.2
+Lahore,03-06-2022,35.3,Thunderstorm,49,12.9
+Lahore,19-11-2022,11.2,Clear sky,75,11.5
+Lahore,08-11-2023,36.4,Rain,85,5.2
+Lahore,01-03-2020,13.6,Rain,95,12.1
+Lahore,11-01-2021,11,Clear sky,40,5.7
+Karachi,18-09-2022,35.1,Scattered clouds,99,5.7
+Karachi,31-07-2024,17.7,Thunderstorm,46,6.3
+Lahore,22-08-2023,28.3,Clear sky,66,8.3
+Lahore,03-12-2022,13,Rain,39,9.2
+Karachi,29-09-2023,35.5,Thunderstorm,87,11
+Peshawar,05-02-2021,15.7,Overcast,57,7.7
+Peshawar,23-06-2023,11,Thunderstorm,77,2.6
+Peshawar,29-09-2024,35.6,Overcast,98,4.1
+Peshawar,24-01-2024,10.2,Few clouds,55,7.5
+Lahore,01-02-2021,34.4,Thunderstorm,21,5.2
+Islamabad,13-06-2021,35.2,Few clouds,93,13.6
+Lahore,30-11-2024,17.4,Few clouds,58,8.8
+Karachi,20-06-2023,17.8,,72,1.7
+Karachi,23-01-2020,10.5,Overcast,38,8.1
+Karachi,21-05-2020,20.6,Rain,34,13.7
+Karachi,05-10-2023,28.8,Scattered clouds,99,14.1
+Karachi,14-01-2021,22.1,Rain,67,13.5
+Islamabad,20-11-2022,,Scattered clouds,53,0.8
+Islamabad,26-03-2021,39.6,Thunderstorm,92,2.6
+Peshawar,14-12-2023,39.4,Clear sky,59,4.7
+Peshawar,09-06-2021,27.2,Thunderstorm,37,10.4
+Quetta,23-08-2020,18.9,Thunderstorm,99,10.8
+Lahore,09-01-2021,19.5,Few clouds,32,4.9
+Peshawar,11-12-2023,17.9,,65,5.7
+Quetta,01-09-2023,,Overcast,27,10.7
+Lahore,21-04-2023,32.9,Rain,47,11.9
+Quetta,13-07-2020,27.1,Overcast,27,0.1
+Karachi,05-02-2024,27.9,Clear sky,21,2.2
+Karachi,18-03-2023,19.2,Overcast,23,3.2
+Peshawar,19-01-2022,34.8,Rain,88,0.6
+Islamabad,14-04-2023,24.6,Overcast,64,12.3
+Peshawar,15-11-2020,37.4,Few clouds,46,13.6
+Karachi,25-09-2022,15.6,Thunderstorm,77,4.7
+Karachi,02-06-2023,36,Few clouds,72,8.9
+Peshawar,20-05-2022,21.9,Thunderstorm,31,10.3
+Islamabad,23-06-2020,39.4,Overcast,55,8.6
+Quetta,30-01-2022,34.9,Few clouds,35,9.3
+Peshawar,29-04-2020,35.2,Thunderstorm,66,7.7
+Quetta,10-01-2022,24.1,Rain,48,9.2
+Lahore,02-07-2020,39.8,Scattered clouds,41,3.9
+Islamabad,04-07-2023,12.9,Rain,43,7.9
+Islamabad,26-01-2022,17.7,Thunderstorm,25,14.6
+Quetta,30-12-2024,26.8,Overcast,36,1.9
+Karachi,04-09-2023,15.1,Scattered clouds,34,10.8
+Karachi,14-04-2020,32.8,Scattered clouds,56,4
+Lahore,10-11-2020,38,Rain,63,12.9
+Karachi,24-07-2020,23.9,Scattered clouds,51,0.9
+Quetta,23-08-2022,30.9,Thunderstorm,44,9.4
+Islamabad,17-12-2022,32.4,Scattered clouds,54,11.5
+Karachi,28-06-2022,37.2,Few clouds,74,5.9
+Peshawar,13-09-2024,13.8,Clear sky,98,0.8
+Quetta,14-02-2020,18.5,Rain,100,14.1
+Peshawar,10-10-2023,31.4,Overcast,63,9.3
+Lahore,23-01-2023,17.8,Scattered clouds,54,13.9
+Islamabad,09-04-2020,39.9,Scattered clouds,64,10.8
+Peshawar,13-09-2023,36.9,Scattered clouds,28,5.1
+Peshawar,11-02-2021,31,Few clouds,46,4.4
+Lahore,31-01-2021,31.1,Few clouds,34,2.3
+Islamabad,02-09-2022,39.3,Clear sky,37,13.5
+Peshawar,24-11-2024,29.4,Thunderstorm,98,13.1
+Karachi,07-10-2021,30.4,Overcast,32,5.1
+Peshawar,17-10-2021,25.2,Scattered clouds,91,13.9
+Peshawar,24-06-2021,35.3,Clear sky,86,7.9
+Karachi,27-08-2021,13.9,Thunderstorm,40,13.3
+Islamabad,26-12-2021,36.2,Clear sky,63,9.1
+Peshawar,24-08-2024,17.3,Rain,71,12.6
+Quetta,26-10-2021,38.2,Clear sky,45,13.5
+Karachi,03-06-2024,24.1,Scattered clouds,50,0.7
+Quetta,21-11-2021,18.1,,73,0.9
+Islamabad,18-01-2022,17.4,Scattered clouds,77,0
+Islamabad,22-07-2022,30.3,Few clouds,31,11.1
+Islamabad,17-12-2023,32.6,Rain,32,1.4
+Karachi,12-07-2020,29.7,Thunderstorm,90,5.9
+Quetta,24-05-2023,31.4,Few clouds,22,9.5
+Islamabad,04-08-2024,27.8,Thunderstorm,73,5.1
+Karachi,24-04-2024,35.5,Thunderstorm,23,12
+Lahore,05-05-2024,38.9,Thunderstorm,93,2.1
+Peshawar,27-06-2021,34.5,Few clouds,79,5.4
+Lahore,21-12-2022,19.6,Few clouds,86,1.8
+Peshawar,14-11-2022,34.3,Clear sky,38,5.1
+Islamabad,28-03-2020,10.7,Clear sky,60,9.2
+Karachi,07-11-2020,15.1,Clear sky,82,11
+Karachi,19-10-2024,36.8,Thunderstorm,90,14.2
+Quetta,21-10-2020,37.1,Few clouds,59,7.7
+Quetta,31-03-2023,34.6,Overcast,31,12
+Karachi,05-03-2020,11.4,Overcast,100,4
+Lahore,08-01-2020,39.1,Thunderstorm,41,8.9
+Peshawar,27-11-2021,17.7,Thunderstorm,98,7.8
+Lahore,15-12-2020,11.3,Overcast,34,7.7
+Lahore,30-03-2022,18,Clear sky,28,4.1
+Peshawar,10-12-2020,34.6,Thunderstorm,80,5.2
+Quetta,09-09-2024,38.1,Overcast,99,14.9
+Quetta,23-07-2024,26.8,Few clouds,21,12.9
+Lahore,12-11-2020,16.8,Thunderstorm,73,0.3
+Peshawar,08-07-2022,14.7,Thunderstorm,85,2.5
+Quetta,22-04-2023,19.8,Overcast,45,4.5
+Lahore,30-06-2021,20,Overcast,71,10
+Peshawar,22-03-2024,33.7,Overcast,64,13
+Peshawar,29-09-2020,33.5,Overcast,29,10.6
+Karachi,31-05-2022,12.3,Overcast,29,2.2
+Islamabad,25-12-2022,19.4,Overcast,91,3.4
+Peshawar,31-07-2021,39.1,Scattered clouds,49,10.4
+Quetta,29-07-2024,28,Overcast,88,6.1
+Lahore,24-02-2021,38,Thunderstorm,57,4.4
+Lahore,20-09-2021,14.1,Overcast,28,10.5
+Islamabad,23-09-2020,32.6,Rain,84,10
+Peshawar,24-05-2024,27.3,Clear sky,94,11.4
+Peshawar,11-01-2020,20.6,Rain,68,3.7
+Lahore,04-12-2022,19.5,Thunderstorm,42,11.4
+Karachi,31-10-2024,16.9,Overcast,61,7.8
+Quetta,24-01-2024,20.1,Thunderstorm,78,9.3
+Peshawar,11-03-2020,34.7,Clear sky,37,0.6
+Karachi,24-05-2021,18.6,Rain,23,12.5
+Karachi,17-10-2024,36.7,Scattered clouds,78,7.9
+Islamabad,22-09-2022,25.3,Few clouds,97,5.6
+Peshawar,06-10-2021,19.9,Clear sky,80,10.8
+Islamabad,13-10-2021,19,Scattered clouds,98,10.3
+Islamabad,31-08-2022,23.8,Clear sky,93,7.6
+Lahore,20-05-2022,15.2,Thunderstorm,60,14.3
+Quetta,16-11-2024,24.7,Overcast,80,8.7
+Peshawar,23-02-2021,20.4,Thunderstorm,96,5.2
+Islamabad,20-05-2020,13.8,Clear sky,52,10.5
+Lahore,27-06-2024,10.9,Clear sky,53,7.6
+Peshawar,26-01-2020,25.3,Scattered clouds,57,14.5
+Lahore,18-10-2020,32.8,Overcast,73,0.6
+Islamabad,21-02-2022,13.6,Few clouds,99,9.4
+Islamabad,03-12-2020,24.1,Thunderstorm,54,5.6
+Lahore,20-12-2022,32.1,Scattered clouds,81,4.6
+Karachi,08-10-2020,36.7,Scattered clouds,37,10.6
+Karachi,25-12-2024,19.9,Few clouds,80,8.8
+Lahore,01-06-2024,19.5,Clear sky,93,5.5
+Quetta,13-01-2020,29.1,Overcast,88,2.3
+Lahore,11-08-2023,20.9,Scattered clouds,72,3
+Islamabad,30-07-2020,23.3,Scattered clouds,31,9.2
+Peshawar,31-10-2023,23.5,Scattered clouds,94,3
+Quetta,08-07-2020,32.1,Few clouds,66,9.4
+Islamabad,05-08-2021,26.5,Rain,66,5.7
+Peshawar,17-07-2023,19.9,Overcast,72,3.6
+Karachi,16-05-2024,16.7,Overcast,24,7
+Quetta,22-11-2021,27.9,Thunderstorm,23,7.2
+Karachi,15-03-2023,17.5,Clear sky,76,8.5
+Lahore,13-12-2024,25.3,Few clouds,75,7.9
+Peshawar,10-07-2020,32.8,Scattered clouds,20,14.5
+Peshawar,02-06-2024,39.6,,75,11.9
+Islamabad,25-03-2023,28.9,Scattered clouds,96,1.1
+Quetta,16-02-2022,17.4,Rain,67,11.8
+Lahore,14-02-2021,26.3,Thunderstorm,68,1.5
+Peshawar,03-06-2022,23,Scattered clouds,22,8
+Lahore,18-01-2023,36.4,Overcast,75,6.6
+Lahore,13-09-2022,17.2,Rain,54,11.5
+Peshawar,30-08-2022,19.1,Thunderstorm,27,7.7
+Karachi,29-09-2024,27.8,Thunderstorm,27,9.6
+Lahore,22-09-2024,,Thunderstorm,,11.2
+Islamabad,26-11-2023,18.1,Overcast,31,7.3
+Islamabad,31-08-2020,23.5,Clear sky,55,5
+Islamabad,08-09-2023,33.9,Few clouds,99,1.2
+Quetta,18-03-2020,24.7,Few clouds,74,12
+Lahore,15-09-2022,23.3,Few clouds,20,2.3
+Lahore,01-08-2020,10.5,Thunderstorm,96,0.6
+Lahore,03-06-2022,36.4,Rain,72,12.1
+Lahore,10-01-2024,11.3,Overcast,70,1
+Karachi,14-06-2020,36.1,Overcast,90,7.5
+Lahore,21-04-2020,10.2,Few clouds,38,10.7
+Peshawar,08-06-2021,14.4,Thunderstorm,43,9.5
+Quetta,19-03-2024,37.3,Thunderstorm,83,2.9
+Quetta,21-12-2023,11.4,Scattered clouds,53,10.3
+Islamabad,02-03-2022,23.2,Scattered clouds,60,7.8
+Peshawar,04-05-2023,21.4,Few clouds,80,4.1
+Karachi,06-11-2024,23.4,Rain,63,5.6
+Islamabad,06-02-2022,14.4,Clear sky,97,13.4
+Lahore,14-12-2023,26.2,Rain,61,5.3
+Karachi,14-09-2021,38.6,Rain,66,5.1
+Karachi,07-03-2024,31.9,Overcast,54,5
+Peshawar,13-01-2021,37.3,Rain,59,11.7
+Islamabad,02-12-2022,22.5,Scattered clouds,87,6.8
+Karachi,08-08-2024,18.8,Scattered clouds,57,11.9
+Lahore,22-10-2023,34.2,Thunderstorm,26,14.1
+Lahore,11-01-2020,33.3,Clear sky,96,1.3
+Peshawar,09-07-2021,11.6,Rain,100,5.7
+Quetta,06-04-2020,27.5,Clear sky,46,11.2
+Peshawar,14-09-2021,10.1,Clear sky,99,3.7
+Quetta,16-10-2022,26.3,Clear sky,93,10.5
+Islamabad,09-03-2022,24.8,Scattered clouds,73,6.2
+Karachi,15-10-2024,23.7,Few clouds,20,6.4
+Lahore,03-06-2020,25.1,Rain,93,5.7
+Islamabad,30-10-2021,13,Few clouds,43,8.9
+Peshawar,18-07-2023,13.3,Thunderstorm,39,12.2
+Islamabad,06-01-2024,21.9,Rain,29,9.2
+Quetta,20-09-2024,34,Few clouds,52,1.2
+Karachi,27-09-2023,10.2,Few clouds,25,2.6
+Islamabad,08-10-2023,28,Scattered clouds,39,5.3
+Quetta,28-01-2024,13,Overcast,20,12.5
+Peshawar,16-01-2022,35.5,Rain,94,7.1
+Karachi,01-03-2023,14.2,Few clouds,47,0.4
+Lahore,06-11-2024,21,Clear sky,41,0.6
+Islamabad,06-11-2023,13.9,Clear sky,41,5
+Lahore,28-11-2024,38.9,Few clouds,75,2.9
+Peshawar,31-12-2020,36,Thunderstorm,32,1.3
+Lahore,24-04-2022,28.7,Scattered clouds,33,2.9
+Peshawar,09-07-2024,32.4,Clear sky,43,3.6
+Islamabad,20-12-2020,12.9,Clear sky,59,5.4
+Quetta,19-01-2024,19.3,Thunderstorm,80,3.8
+Quetta,17-09-2021,12.6,Thunderstorm,69,12.8
+Quetta,19-02-2022,33.2,Scattered clouds,53,12.6
+Peshawar,02-01-2024,28.7,Thunderstorm,22,14.1
+Quetta,14-11-2021,34.8,Thunderstorm,29,1.3
+Lahore,16-03-2023,25.5,Clear sky,79,2.8
+Islamabad,28-12-2020,23.7,Scattered clouds,97,2.2
+Karachi,25-12-2020,19.7,Few clouds,47,7.2
+Lahore,14-04-2020,11.1,Few clouds,56,0.9
+Quetta,25-05-2023,38.3,Few clouds,43,6.6
+Karachi,02-02-2022,35.2,Thunderstorm,94,8.1
+Islamabad,05-10-2020,25.9,Few clouds,42,12.3
+Karachi,29-02-2024,21.8,Rain,26,4.3
+Quetta,15-05-2022,31.9,Rain,58,6.5
+Lahore,05-10-2021,34.7,Scattered clouds,44,10.1
+Karachi,24-06-2021,17.4,Overcast,47,1.3
+Quetta,04-09-2024,22,Thunderstorm,42,12.7
+Islamabad,07-10-2023,34.3,Clear sky,97,6.9
+Lahore,29-07-2021,12.7,Scattered clouds,84,10.3
+Quetta,02-07-2020,32,Clear sky,65,1.6
+Quetta,08-06-2022,23.9,Overcast,48,4.1
+Islamabad,21-05-2020,32.1,Clear sky,73,10.3
+Lahore,31-01-2021,19.8,Rain,69,8.6
+Islamabad,24-02-2020,38.5,Few clouds,89,14.6
+Lahore,04-02-2020,31.9,Scattered clouds,37,5.5
+Karachi,18-01-2021,28.7,Clear sky,65,9.2
+Quetta,24-01-2021,30.6,Overcast,43,11.9
+Peshawar,10-02-2020,27.9,Overcast,30,4.3
+Islamabad,06-12-2020,19,Thunderstorm,53,5.7
+Karachi,26-01-2020,33.1,Clear sky,25,13.5
+Quetta,18-12-2024,37.2,Clear sky,80,12.1
+Karachi,21-08-2020,31.2,Few clouds,94,6.9
+Quetta,17-02-2024,20.4,,63,14.7
+Karachi,18-01-2022,28.9,Rain,36,13.3
+Islamabad,27-05-2020,30.5,Scattered clouds,69,0.9
+Peshawar,06-03-2023,12.8,Rain,76,9.8
+Karachi,13-06-2022,18,Overcast,81,1
+Islamabad,20-11-2023,24.8,Rain,91,13.5
+Lahore,01-05-2023,12.4,Clear sky,97,0
+Peshawar,28-04-2023,33.7,Thunderstorm,99,6.6
+Karachi,27-04-2024,15.2,Overcast,71,2.1
+Lahore,09-03-2021,16.6,Thunderstorm,53,13.4
+Quetta,16-11-2021,12.2,Rain,84,8.6
+Karachi,06-02-2023,26.3,Few clouds,87,5.6
+Lahore,06-07-2023,29.9,Clear sky,85,11.2
+Quetta,06-04-2024,30.6,Rain,49,13.3
+Lahore,18-10-2021,26.7,Few clouds,60,8.8
+Karachi,26-10-2020,24.2,Thunderstorm,30,10.9
+Islamabad,12-05-2024,22,Overcast,100,10.9
+Islamabad,13-10-2023,24.5,Overcast,28,8.6
+Peshawar,16-06-2021,29.2,Few clouds,95,8.3
+Islamabad,26-07-2023,32.6,Scattered clouds,79,6.3
+Quetta,31-07-2024,21.2,Rain,76,11.6
+Lahore,05-04-2020,16.9,Clear sky,34,5.5
+Islamabad,18-12-2023,16.4,Clear sky,63,0.3
+Lahore,08-01-2023,15.4,Rain,63,14.9
+Lahore,08-02-2020,26.2,Overcast,27,0.2
+Karachi,25-01-2023,27.1,Clear sky,39,2.2
+Quetta,26-08-2024,23.4,Overcast,96,8.3
+Quetta,14-10-2020,37.4,Thunderstorm,25,5.2
+Peshawar,17-11-2024,30.3,Overcast,55,12.9
+Karachi,17-01-2022,,Thunderstorm,95,5
+Quetta,27-06-2023,19.7,Few clouds,49,9.6
+Islamabad,30-03-2024,25.4,Clear sky,31,0.7
+Quetta,03-09-2024,39.6,Scattered clouds,92,4.6
+Islamabad,05-07-2023,19.1,Overcast,90,5.1
+Islamabad,10-01-2023,13.5,Scattered clouds,37,5.5
+Peshawar,30-10-2023,15.4,Rain,99,9.9
+Quetta,23-01-2023,24.5,Rain,83,8
+Peshawar,24-11-2022,22.4,Rain,30,14.5
+Islamabad,09-08-2020,12.6,Rain,48,2.5
+Karachi,04-12-2021,32,Thunderstorm,88,2.6
+Peshawar,30-08-2021,29.1,Overcast,62,2.5
+Peshawar,16-07-2022,37.3,Overcast,40,14.5
+Karachi,24-08-2021,35.4,Few clouds,,9.3
+Islamabad,06-09-2020,23.9,Few clouds,87,7.2
+Peshawar,14-07-2023,10.2,Clear sky,22,14.2
+Quetta,28-09-2022,17.9,Few clouds,,6.7
+Karachi,20-08-2021,13.7,Thunderstorm,32,11.7
+Islamabad,11-11-2020,16.6,Few clouds,29,7.2
+Quetta,02-10-2023,36.2,Thunderstorm,94,1.9
+Islamabad,30-03-2024,10.7,Scattered clouds,80,0.4
+Peshawar,05-07-2022,13.7,Rain,46,6.2
+Quetta,11-04-2023,38.4,Clear sky,95,4.1
+Quetta,08-07-2024,27.3,Rain,91,10.7
+Peshawar,27-07-2022,24.1,Clear sky,85,1.5
+Peshawar,13-03-2024,31.9,Thunderstorm,22,8.8
+Lahore,19-02-2023,11,Few clouds,68,14.8
+Karachi,23-02-2023,15.6,Scattered clouds,62,5.6
+Lahore,09-11-2020,32.8,Scattered clouds,45,13.2
+Quetta,31-01-2023,22.5,Rain,93,13.4
+Karachi,25-01-2023,11.2,Overcast,30,1.4
+Islamabad,29-10-2023,26.5,Scattered clouds,46,0.3
+Lahore,31-01-2022,25.4,Overcast,37,7.1
+Islamabad,16-04-2020,23.7,Overcast,51,10.8
+Lahore,18-03-2024,25,Few clouds,69,0.4
+Karachi,27-12-2024,29.3,Clear sky,87,0.5
+Islamabad,20-04-2023,23.5,Few clouds,59,9.3
+Karachi,03-09-2023,38.4,Clear sky,87,2.1
+Islamabad,03-07-2021,30.1,Thunderstorm,70,6.2
+Peshawar,18-04-2022,12.5,Thunderstorm,53,1.9
+Lahore,20-02-2024,33.6,Few clouds,56,11.3
+Peshawar,23-11-2021,24.9,Clear sky,29,2.5
+Quetta,08-09-2024,36.9,Clear sky,85,11.6
+Karachi,25-06-2023,34,Clear sky,23,14.6
+Quetta,15-07-2023,21.8,Few clouds,64,0
+Quetta,13-08-2021,15.6,Rain,58,3.5
+Karachi,16-05-2020,34.9,Overcast,78,3.2
+Lahore,24-08-2022,14.5,,89,13.7
+Islamabad,06-09-2022,16.7,Scattered clouds,49,7.9
+Lahore,21-12-2020,12.3,Thunderstorm,39,2.9
+Islamabad,09-04-2021,16,Overcast,78,11.8
+Quetta,05-09-2024,22.2,Thunderstorm,91,7.8
+Peshawar,17-04-2021,34.8,Clear sky,48,13
+Islamabad,07-07-2024,31.8,Scattered clouds,53,1.6
+Lahore,24-12-2021,11.9,Clear sky,86,5.7
+Lahore,09-12-2023,26.1,Few clouds,73,8.9
+Peshawar,14-08-2024,13.3,Rain,61,5.3
+Quetta,19-06-2024,25.8,Overcast,23,14.8
+Karachi,16-12-2022,28.8,Clear sky,76,4.8
+Karachi,04-03-2022,31.3,,44,12.8
+Karachi,22-05-2021,11.7,Thunderstorm,96,11.6
+Peshawar,15-04-2023,29.1,Rain,88,14.9
+Karachi,08-10-2021,,Overcast,,10
+Islamabad,22-02-2024,27.8,Clear sky,59,12
+Islamabad,23-05-2023,28.5,Rain,63,10.6
+Lahore,17-03-2020,21.5,Thunderstorm,99,9.2
+Karachi,12-09-2020,23.1,Thunderstorm,37,5.2
+Karachi,29-07-2023,19.8,Clear sky,100,8.1
+Karachi,21-11-2024,24.6,Few clouds,59,1.1
+Islamabad,06-06-2020,29.4,Scattered clouds,37,12.2
+Peshawar,02-03-2023,29.2,Clear sky,45,1.5
+Islamabad,06-11-2020,20,Few clouds,84,10.2
+Islamabad,23-11-2021,39.2,Clear sky,98,2.5
+Peshawar,22-10-2024,22.1,Rain,52,6.6
+Quetta,17-05-2021,29.5,Scattered clouds,79,9.4
+Lahore,08-10-2021,35.4,Few clouds,58,8.1
+Islamabad,29-09-2021,16,Scattered clouds,94,1.9
+Quetta,30-12-2024,40,Few clouds,100,4.3
+Lahore,01-02-2020,11,Scattered clouds,38,9.8
+Peshawar,06-04-2022,33.4,Rain,20,13.4
+Peshawar,13-02-2021,38.3,Thunderstorm,73,2
+Peshawar,14-02-2024,30.1,Scattered clouds,90,5.7
+Quetta,08-11-2020,15.3,Overcast,92,14.6
+Islamabad,08-06-2022,38.9,Few clouds,25,3.8
+Quetta,29-05-2020,35,Rain,48,0.2
+Islamabad,16-12-2023,29.2,Overcast,85,13.7
+Peshawar,11-12-2023,35.5,Overcast,95,4.2
+Karachi,17-05-2021,14.6,Clear sky,88,7.7
+Islamabad,14-10-2022,11.3,Few clouds,30,0.8
+Peshawar,16-07-2020,24.5,Overcast,94,11.1
+Quetta,25-01-2023,12.1,Thunderstorm,90,8.1
+Islamabad,24-10-2020,11.3,Scattered clouds,44,2.8
+Islamabad,30-06-2020,20.2,Clear sky,22,6.8
+Karachi,23-08-2020,15.1,Scattered clouds,89,0.6
+Peshawar,27-03-2022,23.5,Few clouds,42,3.3
+Karachi,31-03-2020,31.4,Overcast,63,2.7
+Islamabad,23-01-2020,14.2,Few clouds,97,1.6
+Lahore,03-08-2022,35.8,Clear sky,37,5.9
+Karachi,06-10-2022,37.5,Thunderstorm,43,8.4
+Peshawar,17-02-2021,22.9,Overcast,52,8.6
+Karachi,15-06-2023,23,Few clouds,64,3.5
+Peshawar,15-04-2023,14.3,Thunderstorm,81,0.4
+Lahore,08-10-2024,22.8,Rain,59,0.5
+Quetta,13-10-2024,20,Thunderstorm,93,1.5
+Peshawar,03-08-2024,26.1,Overcast,33,7.3
+Karachi,06-10-2024,24.9,Overcast,61,5.2
+Karachi,24-04-2022,16.7,Clear sky,38,12.5
+Peshawar,01-02-2023,37.3,Overcast,93,0.1
+Quetta,04-04-2021,14.5,Few clouds,63,13.3
+Quetta,19-02-2021,14.4,Clear sky,46,8.8
+Peshawar,23-01-2021,32.6,Few clouds,53,4.6
+Islamabad,14-12-2022,29.9,Clear sky,66,5.4
+Lahore,22-10-2022,31.1,Few clouds,99,5.3
+Islamabad,10-06-2022,35.4,Few clouds,65,5.9
+Islamabad,25-05-2020,11.2,Few clouds,25,4.1
+Karachi,02-08-2020,38.2,Thunderstorm,76,0.7
+Quetta,27-12-2021,20.6,Clear sky,36,4.8
+Karachi,30-11-2020,29.1,Overcast,43,8.3
+Islamabad,10-01-2024,28,Thunderstorm,76,4.8
+Quetta,10-06-2024,25.6,Overcast,97,10.3
+Lahore,15-01-2024,25.7,Rain,22,4.8
+Islamabad,30-11-2024,29.8,Few clouds,38,5
+Quetta,27-10-2020,14.7,Overcast,83,7.1
+Karachi,04-04-2020,17.9,Clear sky,63,1.6
+Lahore,31-10-2022,31.9,Clear sky,61,7.1
+Islamabad,09-10-2022,11.5,Rain,32,2.1
+Quetta,23-06-2023,28.4,Few clouds,69,8
+Karachi,05-09-2021,36.5,Few clouds,83,8.6
+Islamabad,03-09-2023,27.2,Clear sky,29,7.4
+Karachi,25-07-2023,27.4,Scattered clouds,23,4.1
+Islamabad,09-12-2022,18.9,Overcast,57,1.8
+Quetta,05-01-2022,28.2,Thunderstorm,87,12.4
+Peshawar,02-09-2024,13.9,Scattered clouds,54,14.8
+Lahore,04-05-2023,37,Clear sky,77,2
+Lahore,24-12-2021,10.3,Rain,85,2.8
+Karachi,25-09-2021,10.1,Rain,37,8.9
+Lahore,07-11-2023,16.7,Rain,96,9.6
+Peshawar,16-11-2023,28.1,Few clouds,79,3.7
+Lahore,29-03-2022,37.6,Few clouds,23,1.5
+Karachi,26-10-2022,28,Rain,88,4.1
+Karachi,12-03-2020,32,Clear sky,70,4.8
+Lahore,18-06-2022,21.4,Overcast,92,14.9
+Peshawar,27-07-2024,13.9,Clear sky,51,2.1
+Karachi,25-09-2020,18.4,Thunderstorm,44,9.7
+Islamabad,21-06-2023,32.6,Scattered clouds,75,0.5
+Quetta,09-11-2020,26,Overcast,22,10.6
+Karachi,08-02-2020,19.9,Few clouds,72,8.6
+Islamabad,22-12-2023,21.1,Thunderstorm,100,0.4
+Islamabad,10-06-2023,14.2,Scattered clouds,97,0.6
+Islamabad,12-10-2020,24.9,Few clouds,94,9.3
+Quetta,11-11-2022,34.7,Overcast,47,14.3
+Lahore,29-09-2022,39.3,Scattered clouds,50,8.8
+Karachi,13-07-2023,26.1,Rain,41,0.5
+Peshawar,04-12-2023,37,Thunderstorm,88,7.5
+Islamabad,11-04-2021,30.5,Clear sky,34,9.9
+Lahore,25-10-2020,13.2,Rain,83,12.3
+Lahore,26-11-2023,36,Clear sky,89,2
+Quetta,18-02-2024,38.8,Rain,61,3.5
+Karachi,18-08-2020,25.5,Clear sky,28,11.9
+Islamabad,19-06-2022,36.9,Thunderstorm,39,6
+Quetta,04-11-2022,21,Few clouds,94,9.4
+Peshawar,19-09-2023,38.5,Clear sky,83,13.9
+Karachi,28-09-2021,27.4,Clear sky,98,2.9
+Karachi,10-04-2020,18.1,Scattered clouds,98,0.6
+Peshawar,28-09-2020,37.9,Thunderstorm,66,9.5
+Karachi,02-11-2024,35.9,Few clouds,87,2.9
+Karachi,04-07-2023,20.8,Scattered clouds,46,6.3
+Karachi,07-01-2023,21.2,Scattered clouds,35,8
+Quetta,28-09-2024,32.4,Scattered clouds,68,8.1
+Lahore,20-01-2024,22.7,Few clouds,25,6.8
+Karachi,31-07-2022,37.8,Clear sky,67,2.8
+Lahore,29-08-2022,30.6,Scattered clouds,83,7.8
+Lahore,24-01-2020,12.1,Rain,46,5.9
+Lahore,08-04-2020,39.5,Scattered clouds,33,11.7
+Quetta,11-04-2021,14.1,Thunderstorm,67,14.1
+Lahore,01-10-2021,13.4,Scattered clouds,50,2.4
+Islamabad,27-12-2022,37.2,Rain,59,14.1
+Islamabad,04-12-2022,25.7,Scattered clouds,93,7.3
+Peshawar,05-07-2020,37.4,Rain,94,11
+Islamabad,11-11-2023,37.2,Rain,69,11.5
+Peshawar,29-08-2021,21.4,Rain,77,3.6
+Peshawar,04-12-2023,26.4,Overcast,25,14.1
+Islamabad,13-12-2021,39.4,Overcast,66,14.7
+Lahore,17-07-2023,24.7,Clear sky,47,11.1
+Peshawar,04-09-2021,37.5,Scattered clouds,49,14.8
+Islamabad,28-06-2020,38.2,Clear sky,26,14.1
+Peshawar,10-02-2020,23.5,Thunderstorm,74,13.2
+Karachi,02-08-2021,13.3,Rain,37,1.3
+Islamabad,25-05-2021,32.1,Thunderstorm,60,0.1
+Lahore,23-04-2020,31.5,Scattered clouds,70,8.5
+Peshawar,17-02-2023,39.4,Scattered clouds,87,9.3
+Karachi,14-12-2023,21.1,Thunderstorm,24,1
+Quetta,23-12-2023,35.2,Thunderstorm,87,13
+Islamabad,23-11-2024,29.1,Thunderstorm,27,1.8
+Quetta,25-04-2022,24.1,Scattered clouds,68,4.2
+Lahore,17-11-2023,28.5,Overcast,99,13.2
+Islamabad,17-12-2021,29.3,Scattered clouds,97,0.9
+Islamabad,03-11-2022,17.9,Scattered clouds,39,0.1
+Islamabad,14-08-2021,13.4,Scattered clouds,26,9
+Karachi,22-01-2024,35.5,Thunderstorm,28,14.8
+Lahore,27-07-2022,10.6,Overcast,89,7.6
+Quetta,31-01-2020,34.1,Clear sky,70,5.8
+Lahore,30-11-2024,14.3,Thunderstorm,45,6.3
+Lahore,26-01-2022,12.3,Scattered clouds,51,7.3
+Quetta,14-10-2023,28.3,Overcast,36,3.1
+Karachi,01-01-2020,18.7,Overcast,32,13.5
+Quetta,04-07-2022,27.1,Few clouds,82,4.4
+Karachi,11-02-2021,23.9,Scattered clouds,29,13.5
+Islamabad,12-01-2021,34.5,Rain,66,3.4
+Quetta,25-09-2022,24.8,Scattered clouds,55,13.1
+Peshawar,09-02-2020,34.5,Few clouds,87,11
+Lahore,14-04-2024,32.9,Thunderstorm,57,1.8
+Peshawar,10-03-2021,27.7,Few clouds,87,4.1
+Quetta,12-08-2023,34.3,Few clouds,99,8.8
+Islamabad,04-06-2021,23,Few clouds,49,5.8
+Quetta,06-02-2021,11.3,Overcast,74,14.5
+Karachi,07-03-2024,34.2,Overcast,48,2
+Islamabad,08-07-2021,15.4,Overcast,21,4.9
+Quetta,24-06-2021,20,Scattered clouds,30,11
+Peshawar,09-03-2021,17.1,Scattered clouds,24,10.9
+Peshawar,02-12-2021,39.7,Few clouds,55,14.9
+Karachi,22-10-2024,32.9,Few clouds,71,8.2
+Lahore,25-12-2024,31.6,Rain,24,7.9
+Islamabad,29-10-2024,30.5,Clear sky,24,3.1
+Quetta,01-08-2023,31.4,Scattered clouds,62,3
+Karachi,03-01-2022,14.9,Clear sky,60,8
+Peshawar,08-02-2021,26.9,Scattered clouds,28,14.7
+Peshawar,30-03-2024,16.9,Rain,77,13.7
+Peshawar,20-05-2023,21.6,Scattered clouds,36,14.6
+Islamabad,19-05-2022,36.5,Clear sky,39,9.5
+Lahore,15-05-2023,30.6,Scattered clouds,79,14.8
+Karachi,06-01-2020,36.8,Overcast,96,9.6
+Peshawar,28-09-2023,16,Clear sky,71,11.3
+Lahore,15-05-2023,13.8,Overcast,91,1.6
+Quetta,10-06-2022,13.8,Overcast,94,11.7
+Karachi,11-05-2023,29.7,Overcast,29,5.8
+Quetta,19-08-2023,12.2,Rain,56,2.7
+Quetta,09-10-2024,23.1,Scattered clouds,42,6.4
+Peshawar,24-09-2024,14,Few clouds,25,8
+Lahore,12-02-2022,35.3,Thunderstorm,82,12
+Karachi,27-04-2020,18.9,Clear sky,30,12
+Peshawar,13-06-2024,27.5,Clear sky,51,0.7
+Karachi,01-10-2020,38.7,Clear sky,60,5.5
+Islamabad,07-05-2024,20.2,Overcast,49,3.1
+Karachi,11-04-2020,36,Scattered clouds,90,8.3
+Karachi,29-12-2023,38.2,Rain,86,3.7
+Karachi,11-12-2020,17.6,Clear sky,91,3.6
+Peshawar,09-05-2022,26.4,Thunderstorm,42,6.9
+Lahore,21-06-2020,12.2,Thunderstorm,29,12.3
+Lahore,23-01-2024,11.4,Clear sky,73,12.1
+Islamabad,21-03-2021,26,Few clouds,79,11.9
+Lahore,20-02-2024,26.1,Clear sky,61,10.5
+Peshawar,01-11-2020,31.3,Overcast,46,7
+Quetta,02-09-2024,39,Thunderstorm,54,10.6
+Islamabad,17-11-2024,25.3,Overcast,57,5.4
+Quetta,26-11-2021,26.2,Thunderstorm,59,10.8
+Quetta,19-11-2021,31.9,Scattered clouds,34,6.7
+Karachi,14-02-2020,26.5,Few clouds,100,13.3
+Peshawar,15-06-2020,36.7,Clear sky,29,2.8
+Quetta,30-03-2024,39.8,Rain,48,5.5
+Lahore,07-07-2022,30.4,Overcast,96,1.1
+Quetta,13-05-2023,30.5,Scattered clouds,91,3.4
+Karachi,17-12-2024,18.3,Thunderstorm,31,2.6
+Lahore,22-10-2020,29.1,Scattered clouds,63,8.6
+Karachi,10-07-2023,11.2,Scattered clouds,96,10.9
+Lahore,14-02-2020,32.8,Scattered clouds,32,1.9
+Islamabad,12-08-2020,24,Clear sky,44,1.4
+Peshawar,06-09-2020,29,Rain,55,13.2
+Karachi,22-06-2024,25.2,Scattered clouds,99,6.9
+Peshawar,04-09-2024,28.9,Scattered clouds,73,7.5
+Peshawar,06-11-2021,23.5,Rain,65,14.9
+Karachi,07-09-2021,19.5,Overcast,41,12.9
+Quetta,23-12-2023,18.2,,58,9
+Karachi,20-02-2021,27.5,Overcast,79,13.8
+Peshawar,14-02-2022,10.7,,52,10.7
+Quetta,09-04-2022,35.4,Clear sky,21,12.8
+Islamabad,10-11-2021,38.5,Few clouds,64,10.1
+Quetta,23-05-2020,27.7,Few clouds,47,3.6
+Lahore,08-10-2024,30.6,Scattered clouds,30,11.7
+Islamabad,24-04-2021,29.1,Rain,41,0.2
+Quetta,22-02-2020,16.4,Few clouds,95,8.9
+Quetta,28-06-2020,26.4,Overcast,39,6.7
+Islamabad,08-04-2024,32.8,Few clouds,58,8.1
+Lahore,12-02-2022,13,Few clouds,99,13.8
+Karachi,20-05-2024,12.7,Clear sky,82,4.5
+Lahore,28-09-2021,14.2,Few clouds,70,14.4
+Quetta,05-11-2023,39.1,Rain,59,12.7
+Lahore,13-02-2020,20,Clear sky,78,8.2
+Islamabad,27-02-2024,10.6,Scattered clouds,26,2.9
+Peshawar,30-10-2023,15.1,Thunderstorm,52,2.9
+Karachi,08-01-2022,27.9,Clear sky,95,1.6
+Islamabad,27-03-2024,27.1,Few clouds,90,11.7
+Lahore,03-04-2021,30.2,Thunderstorm,48,2
+Quetta,04-07-2024,13.1,Thunderstorm,25,2.5
+Karachi,14-06-2022,16.4,Scattered clouds,52,14.7
+Islamabad,21-10-2023,33.9,Clear sky,27,11.4
+Islamabad,01-05-2020,14.3,Few clouds,46,11.4
+Karachi,22-11-2024,35.2,Overcast,65,7.9
+Karachi,01-07-2021,15.4,Rain,71,1.9
+Quetta,05-02-2023,17.8,Scattered clouds,37,3.5
+Quetta,15-12-2023,27.7,Overcast,39,13.1
+Lahore,30-09-2022,26.5,Scattered clouds,59,7
+Peshawar,18-11-2020,23.2,Thunderstorm,49,4.9
+Karachi,24-03-2024,29.8,Scattered clouds,88,10.9
+Islamabad,26-09-2021,10.8,Few clouds,28,6
+Karachi,07-01-2023,26.2,Few clouds,60,14.5
+Karachi,09-04-2022,33.1,Rain,71,7.8
+Lahore,16-07-2023,27.8,Scattered clouds,74,1
+Peshawar,06-06-2022,17.8,Scattered clouds,23,1.9
+Quetta,12-01-2021,20.9,Overcast,81,0.2
+Karachi,12-08-2024,38.5,Clear sky,21,7
+Quetta,15-07-2022,15.1,Overcast,29,7.9
+Quetta,19-11-2023,27.2,Few clouds,96,7.9
+Peshawar,29-03-2020,31.7,Few clouds,86,11.5
+Islamabad,04-04-2023,23.4,Few clouds,23,11.7
+Islamabad,13-08-2022,28.9,Rain,36,2.6
+Karachi,29-09-2021,39.2,Overcast,83,2.6
+Karachi,14-01-2024,17.1,Rain,79,4.2
+Quetta,10-12-2020,14.7,Scattered clouds,62,9.8
+Quetta,05-06-2022,10.8,Thunderstorm,47,12.4
+Islamabad,10-06-2022,14.6,Clear sky,99,1.2
+Islamabad,02-10-2023,22.4,Scattered clouds,74,13
+Peshawar,30-08-2024,23,Rain,79,6.9
+Islamabad,13-09-2024,36.2,Rain,36,14.6
+Peshawar,08-07-2021,10.2,Overcast,28,1.5
+Quetta,12-06-2024,39.2,Rain,92,10.5
+Karachi,08-09-2020,18.2,Scattered clouds,51,3.3
+Lahore,19-11-2023,15.3,Few clouds,61,0.5
+Peshawar,29-11-2023,21.7,Clear sky,40,5.9
+Islamabad,08-03-2021,23.1,Rain,40,1.3
+Peshawar,12-07-2020,24.2,Few clouds,72,11.8
+Islamabad,04-12-2020,28.2,Few clouds,87,8.6
+Quetta,23-05-2022,15.6,Few clouds,27,8.4
+Lahore,12-01-2023,13,Thunderstorm,59,3
+Islamabad,19-11-2023,10.5,Few clouds,37,11.4
+Islamabad,02-07-2020,14,Rain,71,10.4
+Islamabad,08-04-2021,17.5,Scattered clouds,68,2.5
+Islamabad,11-09-2024,10.8,Thunderstorm,53,9.3
+Lahore,24-06-2023,29.3,Scattered clouds,52,14.4
+Lahore,23-03-2021,38.6,Overcast,26,3.6
+Quetta,18-01-2022,16.2,Overcast,58,9.8
+Peshawar,28-07-2021,39.6,Thunderstorm,90,9
+Peshawar,02-03-2024,25.1,Clear sky,25,7
+Lahore,15-11-2023,20.6,Scattered clouds,51,5.6
+Lahore,16-05-2021,18.3,Few clouds,68,11
+Karachi,02-01-2024,11.6,Scattered clouds,40,13
+Islamabad,14-11-2022,39.6,Clear sky,75,6.4
+Karachi,25-01-2023,21.5,Overcast,34,14.5
+Islamabad,06-05-2023,21.9,Thunderstorm,91,3.2
+Lahore,05-12-2023,20,Clear sky,59,12.8
+Islamabad,27-10-2021,14.2,Few clouds,87,12.2
+Quetta,23-11-2022,29.5,Few clouds,83,2.3
+Peshawar,11-01-2020,23.7,Rain,80,6.4
+Karachi,07-07-2022,16.2,Few clouds,60,3.4
+Quetta,22-05-2020,15.9,Rain,31,0.3
+Islamabad,19-03-2023,28.6,Rain,100,10.5
+Peshawar,16-03-2023,29.3,Clear sky,56,6.8
+Islamabad,29-01-2024,26.5,Overcast,20,4.5
+Karachi,16-10-2021,11.4,Few clouds,48,9.4
+Quetta,08-10-2020,26.2,Overcast,27,10
+Karachi,10-11-2024,25.7,Clear sky,69,2.9
+Peshawar,30-05-2020,12.5,Overcast,48,12.4
+Peshawar,09-07-2020,17.6,Scattered clouds,40,9.3
+Peshawar,12-05-2024,28.8,Rain,83,9.2
+Quetta,18-02-2022,11.6,Few clouds,51,4.7
+Karachi,28-10-2023,29.1,Scattered clouds,30,10
+Peshawar,30-04-2021,26.2,Thunderstorm,90,14
+Islamabad,10-03-2023,24.2,Thunderstorm,59,8.6
+Peshawar,01-07-2021,36,Rain,37,7.8
+Quetta,11-10-2021,31.1,Scattered clouds,95,3.7
+Quetta,05-03-2020,19.3,Thunderstorm,30,3.2
+Karachi,14-02-2021,10.1,Thunderstorm,78,11
+Quetta,04-03-2024,20.2,Overcast,20,1.9
+Quetta,17-04-2021,33.6,Thunderstorm,41,7.5
+Quetta,04-07-2021,21.9,Rain,80,7.7
+Quetta,02-03-2022,12.3,Rain,74,11
+Karachi,15-10-2024,16.6,Few clouds,80,12.3
+Peshawar,01-07-2020,15.1,Few clouds,59,2.2
+Islamabad,24-06-2023,33.8,Clear sky,75,14.6
+Karachi,12-04-2021,22.2,Clear sky,63,13.5
+Islamabad,07-01-2020,22.4,Overcast,21,1.1
+Islamabad,12-02-2020,27.6,Clear sky,69,0.1
+Peshawar,24-11-2023,11.3,Thunderstorm,44,15
+Karachi,21-09-2020,14.5,Overcast,48,0.5
+Peshawar,02-09-2024,19.2,Scattered clouds,36,7.5
+Quetta,05-08-2022,25,Overcast,37,3
+Karachi,15-10-2022,28,Few clouds,31,11.1
+Islamabad,24-04-2020,33.4,Few clouds,90,3
+Peshawar,22-10-2023,11,Rain,93,0.1
+Karachi,12-04-2024,14.5,Clear sky,74,11.7
+Karachi,12-10-2021,27,Scattered clouds,94,8.1
+Peshawar,23-02-2022,26.7,Clear sky,95,6
+Quetta,15-05-2021,20.5,Overcast,44,6.2
+Quetta,08-01-2020,39.7,Thunderstorm,52,5.3
+Islamabad,25-02-2024,28.2,Overcast,61,9.2
+Quetta,09-01-2022,36.5,Few clouds,93,11
+Karachi,04-06-2024,32,Overcast,21,3.7
+Quetta,28-10-2021,33.3,Overcast,30,13.1
+Lahore,13-03-2022,,Overcast,71,11
+Karachi,31-12-2023,12.7,Rain,61,11.9
