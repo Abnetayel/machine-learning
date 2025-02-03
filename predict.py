@@ -15,7 +15,13 @@ app = FastAPI()
 
 # Define request model
 class InputData(BaseModel):
-    data: Dict[str, Any]  # Expect a dictionary of feature values
+    data: Dict[str, Any] = {
+        "City": "",
+        "Date": "",
+        "Humidity (%)": 0,
+        "Weather Description": "",
+        "Wind Speed(m/s)": 0
+    } # Expect a dictionary of feature values
 
 # Preprocess input function
 def preprocess_input(input_data):
