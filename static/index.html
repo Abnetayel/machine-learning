@@ -88,7 +88,7 @@
     </form>
 
     <div id="result" style="display: none;">
-        <h2>Predicted Temperature: <span id="predictedTemperature"></span> °C</h2>
+        <h2>Predicted Temperature: <span id="predictedTemperature"></span>°C</h2>
     </div>
 
     <script>
@@ -126,7 +126,7 @@
 
                    
                     // Modify how the predicted temperature is displayed
-                    document.getElementById("predictedTemperature").textContent = `${predictedTemp}.`;
+                    document.getElementById("predictedTemperature").textContent = `${predictedTemp}`;
                     document.getElementById("result").style.display = "block";
                 } else if (result.status === "error") {
                     // Show error message
