@@ -76,8 +76,7 @@ async def predict(
         }
         processed_data = preprocess_input(input_data)
         prediction = model.predict(processed_data)[0]
-        prediction = prediction.toFixed(4)
-        # Change response format: Adding a "status" and "message"
+       # Change response format: Adding a "status" and "message"
         response = {
             "status": "success",
             "message": "Prediction was successful.",
