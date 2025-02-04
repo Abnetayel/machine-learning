@@ -67,7 +67,7 @@
     </style>
 </head>
 <body>
-    <h1>Weather Prediction</h1>
+    <h1> Weather Prediction in Pakistan</h1>
     <form id="predictionForm">
         <label for="City">City:</label><br>
         <input type="text" id="City" name="City" required><br><br>
@@ -126,7 +126,7 @@
 
                    
                     // Modify how the predicted temperature is displayed
-                    document.getElementById("predictedTemperature").textContent = `The predicted temperature is ${predictedTemp}°C.`;
+                    document.getElementById("predictedTemperature").textContent = `${predictedTemp}.`;
                     document.getElementById("result").style.display = "block";
                 } else if (result.status === "error") {
                     // Show error message
