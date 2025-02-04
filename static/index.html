@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperature Prediction</title>
+    <style>
+        /* Basic styling */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            text-align: center;
+            margin-top: 30px;
+            color: #4CAF50;
+        }
+
+        form {
+            max-width: 500px;
+            margin: 30px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        label {
+            font-weight: bold;
+            margin-bottom: 5px;
+            display: block;
+        }
+
+        input[type="text"],
+        input[type="date"],
+        input[type="number"],
+        button {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        #result {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 1.5rem;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Weather Prediction</h1>
+    <form id="predictionForm">
+        <label for="City">City:</label><br>
+        <input type="text" id="City" name="City" required><br><br>
+
+        <label for="Date">Date:</label><br>
+        <input type="date" id="Date" name="Date" required><br><br>
+
+        <label for="Humidity">Humidity (%):</label><br>
+        <input type="number" id="Humidity" name="Humidity (%)" required><br><br>
+
+        <label for="Weather">Weather Description:</label><br>
+        <input type="text" id="Weather" name="Weather Description" required><br><br>
+
+        <label for="WindSpeed">Wind Speed (m/s):</label><br>
+        <input type="number" id="WindSpeed" name="Wind Speed(m/s)" required><br><br>
+
+        <button type="submit">Predict</button>
+    </form>
+
+    <div id="result" style="display: none;">
+        <h2>Predicted Temperature: <span id="predictedTemperature"></span> °C</h2>
+    </div>
+
+    <script>
+        document.getElementById("predictionForm").addEventListener("submit", async function(event) {
+            event.preventDefault();  // Prevent the form from submitting normally
+
+            // Gather form data
+            const formData = new FormData(event.target);
+            const data = {
+                City: formData.get("City"),
+                Date: formData.get("Date"),
+                "Humidity": formData.get("Humidity (%)"),
+                "Weather": formData.get("Weather Description"),
+                "WindSpeed": formData.get("Wind Speed(m/s)"),
+            };
+
+            try {
+                const response = await fetch("/predict", {
+                    method: "POST",
+                    body: new URLSearchParams(data),
+                });
+                console.log(JSON.stringify(data)); 
+                // Log the response to inspect the structure
+                const result = await response.json();
+                 
+        
+                // Handle the response based on the status
+                if (result.status === "success") {
+                    // Display the predicted temperature in a custom format
+                    const predictedTemp = result.result.predicted_temperature;
+                    
+                    // You can format the predicted temperature here (for example, two decimal places)
+                    const formattedTemp = predictedTemp.toFixed(2);
+                    <!-- console.log(JSON.stringify(predictedTemp,null,2)); -->
+
+                   
+                    // Modify how the predicted temperature is displayed
+                    document.getElementById("predictedTemperature").textContent = `The predicted temperature is ${predictedTemp}°C.`;
+                    document.getElementById("result").style.display = "block";
+                } else if (result.status === "error") {
+                    // Show error message
+                    alert("Error: " + result.message);
+                } else {
+                    alert("Unexpected response format.");
+                }} catch (error) {
+                alert("Error: " + error);
+            }
+        });
+    </script>
+</body>
+</html>

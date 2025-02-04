@@ -1,4 +1,8 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Form, Request
+from fastapi.templating import Jinja2Templates
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import JSONResponse
+from fastapi.responses import  FileResponse
 import joblib
 import pandas as pd
 from pydantic import BaseModel
@@ -13,6 +17,8 @@ label_encoders = joblib.load("label_encoders.pkl")
 # Define API
 app = FastAPI()
 
+app.mount("/static", StaticFiles(directory="static"), name="static")
+
 # Define request model
 class InputData(BaseModel):
     data: Dict[str, Any] = {
@@ -21,7 +27,7 @@ class InputData(BaseModel):
         "Humidity (%)": 0,
         "Weather Description": "",
         "Wind Speed(m/s)": 0
-    } # Expect a dictionary of feature values
+    }
 
 # Preprocess input function
 def preprocess_input(input_data):
@@ -53,12 +59,37 @@ def preprocess_input(input_data):
     return df
 
 @app.post("/predict")
-def predict(input_data: InputData):
+async def predict(
+    City: str = Form(...),
+    Date: str = Form(...),
+    Humidity: float = Form(...),
+    Weather: str = Form(...),
+    WindSpeed: float = Form(...)
+):
     try:
-        processed_data = preprocess_input(input_data.data)
-        if isinstance(processed_data, dict) and "error" in processed_data:
-            return processed_data  # Return error message if preprocessing failed
+        input_data = {
+            "City": City,
+            "Date": Date,
+            "Humidity (%)": Humidity,
+            "Weather Description": Weather,
+            "Wind Speed(m/s)": WindSpeed
+        }
+        processed_data = preprocess_input(input_data)
         prediction = model.predict(processed_data)[0]
-        return {"predicted_temperature": prediction}
+       # Change response format: Adding a "status" and "message"
+        response = {
+            "status": "success",
+            "message": "Prediction was successful.",
+            "result": {
+                "predicted_temperature": prediction
+            }
+        }
+        return JSONResponse(content=response)
     except Exception as e:
-        return {"error": str(e)}
+        return {"error": f"An error occurred: {str(e)}"}
+
+
+
+@app.get("/")
+async def read_root():
+    return FileResponse("static/index.html")
