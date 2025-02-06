@@ -1,4 +1,4 @@
-# 🏡 House Price Prediction  
+# 🏡 weather prediction 
 
 This project predicts weather using a Random Forest Regression model. The workflow includes data preprocessing, visualization, model training, hyperparameter tuning, and evaluation.  
 
@@ -28,7 +28,7 @@ The goal is to train a robust model that accurately predicts temperature based o
 
 1. Install dependencies:  
    ```bash
-   pip install numpy pandas matplotlib seaborn scikit-learn
+   pip install numpy pandas matplotlib seaborn scikit-learn fastapi uvicorn joblib pydantic python-multipart
 
 2. Open the Jupyter Notebook (hhhhhh.ipynb) in Jupyter Lab or Notebook.
 
