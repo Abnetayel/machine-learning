@@ -1,4 +1,4 @@
-# 🏡 weather prediction 
+# weather prediction 
 
 This project predicts weather using a Random Forest Regression model. The workflow includes data preprocessing, visualization, model training, hyperparameter tuning, and evaluation.  
 
@@ -35,3 +35,6 @@ The goal is to train a robust model that accurately predicts temperature based o
 3. Run each cell sequentially to execute the code.
 
 4. View results, including visualizations and model evaluation metrics.
+
+##
+You can access the deployed machine learning model using the following link:https://machine-learning-9.onrender.com/
